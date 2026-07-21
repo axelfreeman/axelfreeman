@@ -78,3 +78,16 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=axelfreeman&color=2563eb&style=flat-square" alt="views">
 </p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axelfreeman&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=2563eb&icon_color=2563eb&text_color=ffffff" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfreeman&layout=compact&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=2563eb&text_color=ffffff" width="38%" alt="languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=axelfreeman&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
+</p>
