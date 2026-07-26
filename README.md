@@ -1,6 +1,6 @@
 # 👋 Axel Freeman — AI-Native Marketer
 
-**40+ компаний внедрили AI. C 2018 года.**
+**40+ компаний внедрили AI. C 2018 года. 🚀 Новый сервер — летим!**
 
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square" alt="since 2018">
 <img src="https://img.shields.io/badge/Clients-40+-2563eb?style=flat-square" alt="clients">
