@@ -30,7 +30,7 @@
 
 | 项目 | 描述 | 技术 | 用户 |
 |---------|-------------|------|-------|
-| [**ОткликМашина**](https://avtootkliki.ru) | Telegram 自动响应机器人 | Python · Docker · Telegram API | 5000+ |
+| [**ОткликМашина（自动应聘机）**](https://avtootkliki.ru) | Telegram 自动响应机器人 | Python · Docker · Telegram API | 5000+ |
 | [**Axel Freeman**](https://axelfreeman.ru) | AI 营销，28+ 页面，AEO | DeepSeek · Astro · OpenRouter | 40+ 客户 |
 | [**AEO 页面工厂**](https://axelfreeman.ru/aeo-optimization.html) | LLM SEO 页面生成器 | DeepSeek API · Python | 内部 |
 
