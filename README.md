@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square" alt="since 2018">
 <img src="https://img.shields.io/badge/Clients-40+-2563eb?style=flat-square" alt="clients">
 <img src="https://img.shields.io/badge/Pricing-from_€1500-2563eb?style=flat-square" alt="pricing">
-<img src="https://img.shields.io/badge/Languages-RU_|_EN-2563eb?style=flat-square" alt="languages">
+<img src="https://img.shields.io/badge/Languages-RU_|_EN_|_中文-2563eb?style=flat-square" alt="languages">
+<br><sub>📖 [中文版 (简体中文)](README.zh-CN.md)</sub>
 
 ---
 
