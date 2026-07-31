@@ -70,9 +70,12 @@
 
 ### 📝 Blog
 
-- [Почему Claude — помойка для маркетинга](https://axelfreeman.ru/blog/claude-vs-hermes-marketing.html)
+- [How to Actually Make Money with Vibe Coding: The Four Pillars (EN)](https://axelfreeman.com/blog/vibe-coding-money.html)
+- [The Vibe Coding Setup: What You Need Before You Start (EN)](https://axelfreeman.com/blog/vibe-coding-setup.html)
+- [Why Nobody Is Buying: Marketing Guide for Solo Founders (EN)](https://axelfreeman.com/blog/solo-founder-marketing-en.html)
+- [Почему никто не покупает: что делать соло-фаундеру (RU)](https://axelfreeman.com/blog/solo-founder-marketing.html)
+- [Why Claude — помойка для маркетинга](https://axelfreeman.ru/blog/claude-vs-hermes-marketing.html)
 - [Что нужно знать про контент в нейросети до промпта](https://axelfreeman.ru/blog/ai-content-generation-basics.html)
-- [What You Need to Know About AI Content Generation (EN)](https://axelfreeman.com/blog/ai-content-generation-basics-en.html)
 
 ---
 
