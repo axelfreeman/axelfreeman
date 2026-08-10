@@ -1,9 +1,8 @@
 # Axel Freeman — AI-Native Marketer & B2B Tool Builder
 
-**40+ companies. AI since 2018. Marketing that works.**
+
 
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square">
-<img src="https://img.shields.io/badge/Clients-40+-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Tools-TAPAC_|_Hermes-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Languages-EN_|_RU-2563eb?style=flat-square">
 
