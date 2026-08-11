@@ -14,8 +14,9 @@
 |---------|-------------|--------|
 | [**TAPAC**](https://tapacapi.com) | MCP server for B2B contact finding — websites, Discord, Telegram | 🟢 Live — 100 free searches |
 | [**B2B Contact Mining Kit**](https://github.com/axelfreeman/b2b-contact-mining-kit) | Open-source toolkit: Google scraping, Telegram mining, SMTP validation | 🟢 Free |
-| [**Hermes Security Audit**](https://github.com/axelfreeman/hermes-security-audit) | 12-method security audit skill for AI agents | 🟢 14K+ installs |
-| [**Axel Freeman**](https://axelfreeman.com) | AI marketing agency — content, AEO, automation | 🟢 40+ clients |
+| [**Vibe Marketing First**](https://github.com/axelfreeman/vibe-marketing-first) | Alternative startup playbook: marketing before code. 4 AI prompts | 🟢 Free |
+| [**Hermes Security Audit**](https://github.com/axelfreeman/hermes-security-audit) | 12-method security audit skill for AI agents | 🟢 Published |
+| [**Axel Freeman**](https://axelfreeman.com) | AI marketing — content, AEO, automation | 🟢 Live |
 
 ### 📚 Guides & Articles
 
@@ -25,9 +26,9 @@
 - [15 Best Email Finder Tools in 2026](https://dev.to/axelfreeman/15-best-email-finder-tools-in-2026-complete-comparison-19jm) — Comparison
 
 **Marketing & AI:**
+- [Marketing-First Approach to Vibe Coding](https://axelfreeman.com/blog/vibe-coding-guide.html) — The alternative view
+- [How to Build an App from Scratch](https://dev.to/axelfreeman/how-to-build-an-app-from-scratch-the-marketing-first-approach-2bnj) — Marketing before code
 - [Laws of the Fair: Marketing That Worked for 10,000 Years](https://dev.to/axelfreeman/laws-of-the-fair-marketing-principles-that-have-worked-for-10000-years-5cf6)
-- [How to Find Business Contacts from Any Website](https://dev.to/axelfreeman/how-to-find-business-contacts-from-any-website-in-2026-38d9)
-- [Why Scrape Discord for B2B Lead Generation](https://dev.to/axelfreeman/why-scrape-discord-for-b2b-lead-generation-in-2026-4i8l)
 
 ### 🛠 Tech Stack
 
