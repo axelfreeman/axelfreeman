@@ -1,9 +1,9 @@
 # Axel Freeman — AI-Native Marketer & B2B Tool Builder
 
-
+> AI-agent skills & MCP servers — tools that drop into Claude, Cursor, or ChatGPT in one command.
 
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square">
-<img src="https://img.shields.io/badge/Tools-TAPAC_|_Hermes-2563eb?style=flat-square">
+<img src="https://img.shields.io/badge/Tools-TAPAC_|_GymCam_|_Releazer-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Languages-EN_|_RU-2563eb?style=flat-square">
 
 ---
@@ -13,6 +13,8 @@
 | Project | What It Does | Status |
 |---------|-------------|--------|
 | [**TAPAC**](https://tapacapi.com) | MCP server for B2B contact finding — websites, Discord, Telegram | 🟢 Live — 100 free searches |
+| [**GymCam Analytics**](https://gymcamanalytics.com) | MCP server: gym attendance & trainer analytics from existing cameras | 🟢 Live — free API key |
+| [**Releazer 67**](https://releazer.online) | AI-agent skill — turns shipped code into launch marketing | 🟢 Beta |
 | [**B2B Contact Mining Kit**](https://github.com/axelfreeman/b2b-contact-mining-kit) | Open-source toolkit: Google scraping, Telegram mining, SMTP validation | 🟢 Free |
 | [**Vibe Marketing First**](https://github.com/axelfreeman/vibe-marketing-first) | Alternative startup playbook: marketing before code. 4 AI prompts | 🟢 Free |
 | [**Hermes Security Audit**](https://github.com/axelfreeman/hermes-security-audit) | 12-method security audit skill for AI agents | 🟢 Published |
