@@ -15,6 +15,7 @@
 | [**TAPAC**](https://tapacapi.com) | MCP server for B2B contact finding — websites, Discord, Telegram | 🟢 Live — 100 free searches |
 | [**GymCam Analytics**](https://gymcamanalytics.com) | MCP server: gym attendance & trainer analytics from existing cameras | 🟢 Live — free API key |
 | [**Releazer 67**](https://releazer.online) | AI-agent skill — turns shipped code into launch marketing | 🟢 Live — free key |
+| [**Marketing Mindset**](https://github.com/axelfreeman/marketing-mindset) | AI-agent skill — the marketing OS: think like a marketer first, get tactics as the output | 🟢 Published |
 | [**B2B Contact Mining Kit**](https://github.com/axelfreeman/b2b-contact-mining-kit) | Open-source toolkit: Google scraping, Telegram mining, SMTP validation | 🟢 Free |
 | [**Vibe Marketing First**](https://github.com/axelfreeman/vibe-marketing-first) | Alternative startup playbook: marketing before code. 4 AI prompts | 🟢 Free |
 | [**Hermes Security Audit**](https://github.com/axelfreeman/hermes-security-audit) | 12-method security audit skill for AI agents | 🟢 Published |
