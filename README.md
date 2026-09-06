@@ -1,6 +1,6 @@
-# Axel Freeman — AI-Native Marketer & B2B Tool Builder
+# Axel Freeman — Marketing Engineer
 
-> AI-agent skills & MCP servers — tools that drop into Claude, Cursor, or ChatGPT in one command.
+> **Marketing Engineer** — I build the systems that turn marketing into code: AI agents, automation, and AEO (AI search visibility). Skills & MCP servers that drop into Claude, Cursor, or ChatGPT in one command.
 
 ### 🧠 Featured — marketing-mindset
 
@@ -13,6 +13,7 @@ npx skills add axelfreeman/marketing-mindset
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-marketing--mindset-2563eb?style=for-the-badge&logo=github)](https://github.com/axelfreeman/marketing-mindset)
 [![Install with skills.sh](https://img.shields.io/badge/skills.sh-Install-4B40EE?style=for-the-badge)](https://skills.sh/axelfreeman/marketing-mindset)
 
+<img src="https://img.shields.io/badge/Role-Marketing_Engineer-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Tools-TAPAC_|_GymCam_|_Releazer-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Languages-EN_|_RU-2563eb?style=flat-square">
