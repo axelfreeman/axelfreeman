@@ -92,3 +92,19 @@ npx skills add axelfreeman/marketing-mindset
 ---
 
 *Last updated: August 2026.*
+
+<!-- work-with-me -->
+## Work with me
+
+I build acquisition systems the way software teams build products — scope written down, work ending as
+artifacts at public URLs, tests that declare their volume before they start, everything inside the client's
+own accounts.
+
+- **Turnkey marketing engineering, fixed packages** → [marketing-engineer](https://axelfreeman.com/marketing-engineer.html)
+  (Sprint $900 · Engine $1,900/month · Full build $2,900)
+- **Fractional seat, when the plan exists and the build does not** → [fractional-marketing-engineer](https://axelfreeman.com/fractional-marketing-engineer.html)
+- **Every shipped artifact, with openable links** → [proof page](https://axelfreeman.com/proof.html)
+- **Free tool: how many sends a test really needs** → [email-test-planner](https://axelfreeman.github.io/marketing-mindset/tools/email-test-planner.html)
+- **The open-source skill behind it (MIT, npm)** → [marketing-mindset](https://github.com/axelfreeman/marketing-mindset)
+
+Talk: [Telegram](https://t.me/AxelFreeman). If nothing ships in a month, the month is free.
