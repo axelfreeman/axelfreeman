@@ -68,6 +68,16 @@ npx skills add axelfreeman/marketing-mindset
 - 🧠 **Prompt Engineering** — custom prompts, libraries, training
 - 💬 **AI Chatbots** — 24/7 support, FAQ, conversion bots
 
+### 🤝 Hire
+
+Need this done for you? Outbound as a working arrangement: segments built from public structured sources, live host
+check, addresses matched to their own domain and SMTP-checked, sends under your brand, a read-out with the raw rows
+attached. Published cost basis: **$900** Sprint / **$1,900** per month Engine / **$2,900** Full Build.
+
+- [Marketing engineer — the engagement](https://axelfreeman.com/marketing-engineer.html?utm_source=github&utm_medium=profile&utm_campaign=hire)
+- [White-label partner program for agencies](https://axelfreeman.com/agency-partner-program.html?utm_source=github&utm_medium=profile&utm_campaign=agency-partner)
+- [Proof](https://axelfreeman.com/proof.html) &middot; [Pricing](https://axelfreeman.com/pricing.html)
+
 ### 📫 Contact
 
 - 🌐 **Website:** [axelfreeman.com](https://axelfreeman.com)
