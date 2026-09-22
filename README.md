@@ -13,6 +13,14 @@ npx skills add axelfreeman/marketing-mindset
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-marketing--mindset-2563eb?style=for-the-badge&logo=github)](https://github.com/axelfreeman/marketing-mindset)
 [![Install with skills.sh](https://img.shields.io/badge/skills.sh-Install-4B40EE?style=for-the-badge)](https://skills.sh/axelfreeman/marketing-mindset)
 
+**New in v1.0.4 — the playbook.** A playbook is the **second step, never the first**: it records only client-acquisition moves that already work ("bought an ad from a blogger in segment A — it produced clients"), and you write it *after* a hypothesis is proven, not before. Around six proven moves is the critical mass before you can hire marketing; failed hypotheses go to the archive in one line instead of into the next person's way.
+
+```bash
+npx marketing-mindset playbook --hypotheses 3   # stage: draining — write them down, press each to its ceiling
+```
+
+[Release v1.0.4](https://github.com/axelfreeman/marketing-mindset/releases/tag/v1.0.4) · [What is a business sales and marketing playbook?](https://axelfreeman.github.io/marketing-mindset/qa/what-is-a-marketing-playbook.html)
+
 <img src="https://img.shields.io/badge/Role-Marketing_Engineer-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/AI_Marketing-2018-2563eb?style=flat-square">
 <img src="https://img.shields.io/badge/Tools-TAPAC_|_GymCam_|_Releazer-2563eb?style=flat-square">
